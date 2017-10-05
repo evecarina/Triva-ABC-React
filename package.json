@@ -1,0 +1,19 @@
+{
+  "name": "quiz-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariley",
+  "license": "ISC",
+  "dependencies": {
+    "babel-browser": "^6.1.19",
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.5",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
